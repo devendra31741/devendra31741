@@ -7,7 +7,7 @@
 <br/>
 
 
-<p align="left"> Hi, I'm <b font size=20 ;color="blue"> Devendra Kandpal </b>, a passionate self-taught <b> Data Analyst / Business Analyst  </b> and a <b>freelance Data Analyst / Business Analyst </b> from India. My passion for data begins when .
+<p align="left"> Hi, I'm <b font size=20 ;color="blue"> Devendra Kandpal </b>, a passionate self-taught <b> Data Analyst / Business Analyst  </b> and a <b>freelance Data Analyst / Business Analyst </b> from India. My passion for Data Analyst / Business Analyst begins when I know that we can actually take better decision after doing careful analysis of data.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <p/>
 
